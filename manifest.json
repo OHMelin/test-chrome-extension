@@ -6,7 +6,8 @@
   "action": {
     "default_popup": "popup/popup.html"
   },
-  "permissions": ["notifications", "storage", "downloads", "sidePanel"],
+  "permissions": ["activeTab", "notifications", "storage", "downloads", "sidePanel"],
+  "host_permissions":["<all_urls>"],
   "background": {
     "service_worker": "background.js"
   },

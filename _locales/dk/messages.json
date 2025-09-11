@@ -1,0 +1,10 @@
+{
+  "workTime": {
+    "message": "Arbejdstid",
+    "description": "Tid til at arbejde"
+  },
+  "breakTime": {
+    "message": "Pausetid",
+    "description": "Tid til pause"
+  }
+}
